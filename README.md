@@ -12,13 +12,13 @@ This thesis examines the application of Q-learning in a Reinforcement Learning (
 
 4.	To implement any agent, extend the abstract class util.AI. This contains three methods that may be overridden:
 
-•	public Move selectAction(final Game game, final Context context, final double maxSeconds, final int maxIterations, final int maxDepth). This method can be used to return the next Move to be played by the agent by taking a reference to the game being played, and the current context (which contains data including but not limited to the current game state) as arguments. The three final arguments maxSeconds, maxIterations, and maxDepth can be used to constrain the agent's processing (its search time, its maximum iteration count, or search depth).
+  •	public Move selectAction(final Game game, final Context context, final double maxSeconds, final int maxIterations, final int maxDepth). This method can be used to return the next Move to be played by the agent by taking a reference to the game being played, and the current context (which contains data including but not limited to the current game state) as arguments. The three final arguments maxSeconds, maxIterations, and maxDepth can be used to constrain the agent's processing (its search time, its maximum iteration count, or search depth).
 
-•	public void initAI(final Game game, final int playerID). This method may be overridden to initialise of the AI when the game to be played has been determined, but before the initial game state has been generated.
+  •	public void initAI(final Game game, final int playerID). This method may be overridden to initialise of the AI when the game to be played has been determined, but before the initial game state has been generated.
 
-•	public boolean supportsGame(final Game game). By default, this method returns true for any game. This method can be overridden to always return false for the games a particular AI agent cannot play. Ludii will then know not to try to make your AI play such a game.
+  •	public boolean supportsGame(final Game game). By default, this method returns true for any game. This method can be overridden to always return false for the games a particular AI agent cannot play. Ludii will then know not to try to make your AI play such a game.
 
-•	public void closeAI(). This method can perform any cleanup of resources when a game has been finished.
+  •	public void closeAI(). This method can perform any cleanup of resources when a game has been finished.
 
 5.	Export your project to a new JAR file.
 
