@@ -18,8 +18,7 @@ This thesis examines the application of Q-learning in a Reinforcement Learning (
 
 5.	Export your project to a new JAR file.
 
-**Loading Custom AI in the Ludii Application
-**
+**Loading Custom AI in the Ludii Application**
 
 1.	Click one of the player names in the GUI to open the dialog box where agent types can be assigned to players, another way to of doing this is by selecting Ludii > Preferences... in the menubar. 
 
