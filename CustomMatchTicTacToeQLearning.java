@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import game.Game;
-import agents.qLearn;
+import agents.qLearning;
 import agents.nonDetMinMax;
 import agents.detMinMax;
 import agents.random;
