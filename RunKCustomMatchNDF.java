@@ -31,7 +31,7 @@ public class RunKCustomMatchNDF
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private RunKCustomMatchNDF()
 	{
 		// do not instantiate
 	}
