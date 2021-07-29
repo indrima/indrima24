@@ -31,7 +31,7 @@ public class CustomMatchTicTacToeDetMinMaxHund
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchTicTacToeDetMinMaxHund()
 	{
 		// do not instantiate
 	}
