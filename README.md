@@ -40,7 +40,8 @@ http://www.ludeme.eu/
 
 http://ludii.games/
 
-*Naming Convention:*
+**Naming Convention:**
+
 qLearningHund: Fully Converged Q-Learning agent
  
 CustomMatchNMM___ : Nine Men's Morris
