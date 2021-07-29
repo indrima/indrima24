@@ -31,7 +31,7 @@ public class CustomMatchNMMQFiftyRandom
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchNMMQFiftyRandom()
 	{
 		// do not instantiate
 	}
