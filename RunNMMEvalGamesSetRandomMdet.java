@@ -31,7 +31,7 @@ public class RunNMMEvalGamesSetRandomMdet
 	/**
 	 * Constructor
 	 */
-	private RunLudiiEvalGamesSet()
+	private RunNMMEvalGamesSetRandomMdet()
 	{
 		// do not instantiate
 	}
