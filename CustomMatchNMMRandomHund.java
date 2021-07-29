@@ -31,7 +31,7 @@ public class CustomMatchNMMRandomHund
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchNMMRandomHund()
 	{
 		// do not instantiate
 	}
