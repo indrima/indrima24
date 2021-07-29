@@ -31,7 +31,7 @@ public class CustomMatchTicTacToeRandomHund
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchTicTacToeRandomHund()
 	{
 		// do not instantiate
 	}
