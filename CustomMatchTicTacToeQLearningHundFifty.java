@@ -31,7 +31,7 @@ public class CustomMatchTicTacToeQLearningHundFifty
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchTicTacToeQLearningHundFifty()
 	{
 		// do not instantiate
 	}
