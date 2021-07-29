@@ -31,7 +31,7 @@ public class CustomMatchNMMRandomFifty
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchNMMRandomFifty()
 	{
 		// do not instantiate
 	}
