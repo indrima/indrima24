@@ -42,5 +42,11 @@ http://ludii.games/
 
 
  
- 
+ CustomMatchNMM___ : Nine Men's Morris
+ CustomMatchTTT___ : Tic-Tac-Toe
+ RunKCustomMatch__ : Kalah
+
+ CustomMatchNMM___ : Defining "good" for Nine Men's Morris
+ CustomMatchTTT___ : Defining "good" for Tic-Tac-Toe
+ RunKCustomMatch__ : Defining "good" for Kalah
 
