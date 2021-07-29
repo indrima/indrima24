@@ -15,7 +15,7 @@ import util.GameLoader;
 import util.Trial;
 import util.model.Model;
 
-public class RunCustomMatch
+public class CustomMatchTicTacToeQLearning
 {
 	
 	//-------------------------------------------------------------------------
@@ -31,7 +31,7 @@ public class RunCustomMatch
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchTicTacToeQLearning()
 	{
 		// do not instantiate
 	}
