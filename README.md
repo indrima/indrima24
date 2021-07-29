@@ -4,7 +4,7 @@ This thesis examines the application of Q-learning in a Reinforcement Learning (
 
 **Getting started:**
 
-1.	Download and install Java version 8 or higher. Java can be downloaded from: https://www.java.com/download/.
+1.	Download and install Java version 8 or higher- https://www.java.com/download/.
 	
 2.	Download Ludii's JAR file-  https://ludii.games/downloads/Ludii-1.2.4.jar  
 
