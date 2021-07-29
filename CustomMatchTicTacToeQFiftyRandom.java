@@ -15,7 +15,7 @@ import util.GameLoader;
 import util.Trial;
 import util.model.Model;
 
-public class RunCustomMatch
+public class CustomMatchTicTacToeQFiftyRandom
 {
 	
 	//-------------------------------------------------------------------------
