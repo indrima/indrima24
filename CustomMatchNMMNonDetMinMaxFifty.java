@@ -31,7 +31,7 @@ public class CustomMatchNMMNonDetMinMaxFifty
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchNMMNonDetMinMaxFifty()
 	{
 		// do not instantiate
 	}
