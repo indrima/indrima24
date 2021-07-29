@@ -31,7 +31,7 @@ public class RunTTTEvalGamesSetRandomMdet
 	/**
 	 * Constructor
 	 */
-	private RunLudiiEvalGamesSet()
+	private RunTTTEvalGamesSetRandomMdet()
 	{
 		// do not instantiate
 	}
