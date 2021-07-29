@@ -31,7 +31,7 @@ public class RunkCustomMatchRMdet
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private RunkCustomMatchRMdet()
 	{
 		// do not instantiate
 	}
