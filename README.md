@@ -41,6 +41,7 @@ http://www.ludeme.eu/
 http://ludii.games/
 
 
+qLearningHund: Fully Converged Q-Learning agent
  
 CustomMatchNMM___ : Nine Men's Morris
 
