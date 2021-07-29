@@ -31,7 +31,7 @@ public class CustomMatchNMMRandomdet
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private CustomMatchNMMRandomdet()
 	{
 		// do not instantiate
 	}
