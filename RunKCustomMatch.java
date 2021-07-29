@@ -31,7 +31,7 @@ public class RunKCustomMatch
 	/**
 	 * Constructor
 	 */
-	private RunCustomMatch()
+	private RunkCustomMatch()
 	{
 		// do not instantiate
 	}
