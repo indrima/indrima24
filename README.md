@@ -40,7 +40,7 @@ http://www.ludeme.eu/
 
 http://ludii.games/
 
-
+*Naming Convention:*
 qLearningHund: Fully Converged Q-Learning agent
  
 CustomMatchNMM___ : Nine Men's Morris
@@ -49,9 +49,9 @@ CustomMatchTTT___ : Tic-Tac-Toe
 
 RunKCustomMatch__ : Kalah
 
- RunNMMEvalGamesSet__ : Defining "good" for Nine Men's Morris
+RunNMMEvalGamesSet__ : Defining "good" for Nine Men's Morris
  
- RunTTTEvalGamesSet__ : Defining "good" for Tic-Tac-Toe
+RunTTTEvalGamesSet__ : Defining "good" for Tic-Tac-Toe
  
- RunkEvalGamesSet__ : Defining "good" for Kalah
+RunkEvalGamesSet__ : Defining "good" for Kalah
 
