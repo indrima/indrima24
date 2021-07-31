@@ -57,3 +57,10 @@ RunTTTEvalGamesSet__ : Defining "good" for Tic-Tac-Toe
  
 RunkEvalGamesSet__ : Defining "good" for Kalah
 
+**Running a round robin tournament**
+
+To run a round robin tournament the tournament Host runs a Ludii client on the machine, register for an account on the Ludii Forum, open the Remote Play Dialog in the
+Ludii application and log in with the Ludii Forum username and password. Create the tournament, using the Create Tournament Dialog.
+
+Once all players have joined the tournament, the host can start the tournament by pressing the “Start” button on the Remote Tournaments Tab.
+For more information on runnin round robin tournament please refer to- https://ludii.games/downloads/LudiiUserGuide.pdf
