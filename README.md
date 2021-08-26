@@ -64,3 +64,7 @@ Ludii application and log in with the Ludii Forum username and password. Create 
 
 Once all players have joined the tournament, the host can start the tournament by pressing the “Start” button on the Remote Tournaments Tab.
 For more information on runnin round robin tournament please refer to- https://ludii.games/downloads/LudiiUserGuide.pdf
+
+**Using sanpshots**
+Once training is complete call the snapshot() at nX0.10, nX0.20, nX0.30.... in Qlearning() to store Q-matrix in xml file (where n is total number of episodes required for convergence for a particular game). 
+
